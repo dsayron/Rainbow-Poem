@@ -4,8 +4,10 @@ Purple
 Pink
 Orange
 Blue
+Indigo
 Green
 Unicorn
 yellow
 Red
-These are the colors of the rainbow and the unicorn
+These are the colors of the rainbow 
+and the unicorn
